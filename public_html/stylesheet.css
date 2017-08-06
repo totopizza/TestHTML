@@ -9,5 +9,7 @@ and open the template in the editor.
 */
 
 .first {
+    padding : 10px 20px;
     color : red;
+    background-color : black;
 }
